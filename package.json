@@ -1,0 +1,26 @@
+{
+  "name": "aleks24dan-goit-js-hw-09-galler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleks24dan/Aleks24dan-goit-js-hw-09-galler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleks24dan/Aleks24dan-goit-js-hw-09-galler/issues"
+  },
+  "homepage": "https://github.com/Aleks24dan/Aleks24dan-goit-js-hw-09-galler#readme",
+  "dependencies": {
+    "joi": "^17.4.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
